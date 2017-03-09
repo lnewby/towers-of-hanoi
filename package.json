@@ -1,0 +1,22 @@
+{
+  "name": "towers-of-hanoi",
+  "version": "1.0.0",
+  "description": "Towers of Hanoi puzzle created with HTML5 canvas api",
+  "main": "hanoi.js",
+  "scripts": {
+    "test": "tape --require babel-register tests/*.tests.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnewby/towers-of-hanoi.git"
+  },
+  "author": "Lance Newby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lnewby/towers-of-hanoi/issues"
+  },
+  "homepage": "https://github.com/lnewby/towers-of-hanoi#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
