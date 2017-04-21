@@ -1,0 +1,18 @@
+{
+  "name": "towers-of-hanoi",
+  "description": "Towers of Hanoi",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/lnewby/towers-of-hanoi.git"
+    }
+  ]
+}
